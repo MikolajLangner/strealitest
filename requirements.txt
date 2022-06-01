@@ -109,7 +109,6 @@ munkres==1.1.4
 nest-asyncio==1.5.5
 networkx==2.7.1
 nltk==3.7
-numba==0.55.0
 numexpr==2.8.1
 numpy==1.22.3
 oauthlib==3.2.0
